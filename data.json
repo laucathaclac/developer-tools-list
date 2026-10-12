@@ -1,14 +1,14 @@
 [
   {
-  "category": "Infrastructure",
-  "groupTitle": "MPC Wallets/Multisig",
-  "name": "Fystack",
-  "logo": "https://drive.google.com/uc?export=view&id=1Y5pSGvUFfsmBkGF7W8VOdj269gpB_yXo",
-  "desc": "Fystack gives businesses the infrastructure to automate digital asset operations securely using MPC (Multi-Party Computation), at any scale. It provides wallet creation, transaction automation, multi-approval flows, spending policies, and audit logs through one unified API.",
-  "website": "https://fystack.io",
-  "annotations": "email: marketing@fystack.io, company: Fystack",
-  "chains": "bsc",
-  "tags": "All"
+    "category": "Infrastructure",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Fystack",
+    "logo": "https://drive.google.com/uc?export=view&id=1Y5pSGvUFfsmBkGF7W8VOdj269gpB_yXo",
+    "desc": "Fystack gives businesses the infrastructure to automate digital asset operations securely using MPC (Multi-Party Computation), at any scale. It provides wallet creation, transaction automation, multi-approval flows, spending policies, and audit logs through one unified API.",
+    "website": "https://fystack.io",
+    "annotations": "email: marketing@fystack.io, company: Fystack",
+    "chains": "bsc",
+    "tags": "All"
   },
   {
     "category": "Analytics & Dashboards",
@@ -158,15 +158,15 @@
     "tags": "Game,Defi"
   },
   {
-  "category": "Blockchain Access",
-  "groupTitle": "Node and Archive Services",
-  "name": "Zeeve",
-  "logo": "https://bunny-wp-pullzone-nb318evfcx.b-cdn.net/wp-content/uploads/2024/06/LogoBlackGreen.png",
-  "desc": "Scalable and enterprise-grade RPC, validator, full and archive node infrastructure for BNB Chain and other networks.",
-  "website": "https://www.zeeve.io/",
-  "chains": "bsc",
-  "tags": "Infra,Validator"
-},
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Zeeve",
+    "logo": "https://bunny-wp-pullzone-nb318evfcx.b-cdn.net/wp-content/uploads/2024/06/LogoBlackGreen.png",
+    "desc": "Scalable and enterprise-grade RPC, validator, full and archive node infrastructure for BNB Chain and other networks.",
+    "website": "https://www.zeeve.io/",
+    "chains": "bsc",
+    "tags": "Infra,Validator"
+  },
   {
     "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
@@ -268,7 +268,7 @@
     "chains": "bsc",
     "tags": "Defi"
   },
-   {
+  {
     "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
     "name": "GetBlock",
@@ -326,21 +326,21 @@
     "tags": "Game"
   },
   {
-  "category": "Blockchain Access",
-  "groupTitle": "Data Indexing",
-  "name": "Envio",
-  "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.png",
-  "desc": "Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.",
-  "website": "https://envio.dev",
-  "annotations": "email: jordyn@envio.dev",
-  "chains": "bsc,opbnb",
-  "tags": "Game,Defi"
-},
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "Envio",
+    "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.png",
+    "desc": "Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.",
+    "website": "https://envio.dev",
+    "annotations": "email: jordyn@envio.dev",
+    "chains": "bsc,opbnb",
+    "tags": "Game,Defi"
+  },
   {
     "category": "Blockchain Access",
     "groupTitle": "Data Indexing",
     "name": "Envio",
-    "desc": "High performance, customisable, multichain, data indexer", 
+    "desc": "High performance, customisable, multichain, data indexer",
     "logo": "https://raw.githubusercontent.com/enviodev/brandkit/refs/heads/main/logos/envio-logo-1x1-clear.svg",
     "website": "https://envio.dev/",
     "chains": "bsc, opbnb",
@@ -2130,7 +2130,7 @@
     "chains": "bsc,opbnb",
     "tags": "Defi"
   },
-   {
+  {
     "category": "Wallets",
     "groupTitle": "",
     "name": "Coin Wallet",
@@ -2213,14 +2213,14 @@
     "tags": "AI,DeSoc"
   },
   {
-   "category": "Blockchain Access",
-   "groupTitle": "Data APIs Real-time and Indexed",
-   "name": "Bitquery",
-   "desc": "Real-time and historical data for BNB chain and opBnB",
-   "website": "https://bitquery.io/",
-   "logo": "https://bitquery.io/favicon/logo.svg",
-   "chains": "bsc, opBnb, BnB",
-   "tags": "Data, Infra, API"
+    "category": "Blockchain Access",
+    "groupTitle": "Data APIs Real-time and Indexed",
+    "name": "Bitquery",
+    "desc": "Real-time and historical data for BNB chain and opBnB",
+    "website": "https://bitquery.io/",
+    "logo": "https://bitquery.io/favicon/logo.svg",
+    "chains": "bsc, opBnb, BnB",
+    "tags": "Data, Infra, API"
   },
   {
     "category": "Decentralized Identity/Social Graph",
@@ -2350,5 +2350,16 @@
     "groupTitle": "",
     "chains": "bsc",
     "tags": "Defi,AI"
+  },
+  {
+    "category": "AI Toolings",
+    "groupTitle": "AI Modeling",
+    "name": "DAE Hunter",
+    "logo": "https://raw.githubusercontent.com/laucathaclac/-darwinian-agent-economy/main/assets/dae-logo.svg",
+    "desc": "Free, local-first opportunity discovery for coding and freelance tasks. Scans public GitHub issues, applies transparent heuristics and scam-risk flags, and exports Markdown, JSON, and CSV reports. External X and Binance Square links are search shortcuts, not live crawlers. Funding is not independently verified; users review results and decide what to do. No wallet connection, on-chain execution, or automatic task acceptance.",
+    "website": "https://github.com/laucathaclac/-darwinian-agent-economy",
+    "annotations": "Open-source project; currently a general-purpose opportunity discovery tool, not BNB Chain-integrated and not an on-chain agent.",
+    "chains": "",
+    "tags": "AI, Developer Tools"
   }
 ]
